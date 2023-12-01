@@ -4,7 +4,7 @@ Plugin Name: Fancy Neon Effect
 Description: Adds a fancy neon effect to your WordPress site.[fancy_neon text="Welcome" size="2em" align="center"]
 
 Version: 1.0
-Author: Your Name
+Author: Hassan Naqvi
 */
 
 // Enqueue scripts and styles
